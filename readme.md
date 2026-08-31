@@ -25,6 +25,6 @@ I am a 3rd-year Computer Science and Engineering student at Birsa Institute of T
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/your-profile)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** [linkedin.com/in/TaufeequeUmer](https://linkedin.com/in/TaufeequeUmer)
+* **LeetCode:** [leetcode.com/TaufeequeUmer](https://leetcode.com/TaufeequeUmer)
+* **Email:** [umer.taufeeque@gmail.com](mailto:umer.taufeeque@gmail.com)
